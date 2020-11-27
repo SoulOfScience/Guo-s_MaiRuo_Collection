@@ -1,5 +1,6 @@
 # Guo-s_MaiRuo_Collection
-收录CS卷王的经典强（mai）者（ruo）语录
+收录CS卷王的经典强（mai）者（ruo）语录</br>
+更新：这位卷王现在转去了se，继续称王
 
 ## 第一章  日常篇
 1. 我是垃圾。
