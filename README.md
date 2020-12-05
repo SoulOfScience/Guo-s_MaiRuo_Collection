@@ -3,7 +3,7 @@
 更新：这位卷王现在转去了se，继续称王
 
 # 目录
-[第一章 日常篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection/blob/main/README.md#%E7%AC%AC%E4%B8%80%E7%AB%A0--%E6%97%A5%E5%B8%B8%E7%AF%87)
+[第一章 日常篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E7%AC%AC%E4%B8%80%E7%AB%A0--%E6%97%A5%E5%B8%B8%E7%AF%87)
 </br>
 [第二章 禅意篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E7%A6%85%E6%84%8F%E7%AF%87)
 </br>
