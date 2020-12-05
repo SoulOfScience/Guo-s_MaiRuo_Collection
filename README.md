@@ -2,6 +2,8 @@
 收录CS卷王的经典强（mai）者（ruo）语录</br>
 更新：这位卷王现在转去了se，继续称王
 
+# 目录
+[第一章 日常篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection/blob/main/README.md#%E7%AC%AC%E4%B8%80%E7%AB%A0--%E6%97%A5%E5%B8%B8%E7%AF%87)
 ## 第一章  日常篇
 1. 我是垃圾。
 2. 我真他妈垃圾。
