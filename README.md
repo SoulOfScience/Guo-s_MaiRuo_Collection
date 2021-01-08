@@ -13,7 +13,7 @@
 </br>
 [第五章 差点就信了篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%B7%AE%E7%82%B9%E5%B0%B1%E4%BF%A1%E4%BA%86%E7%AF%87)
 </br>
-[第六章 真实篇]
+[第六章 真实篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%9C%9F%E5%AE%9E%E7%AF%87)
 </br>
 [附页 词典](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E9%99%84%E9%A1%B5-%E8%AF%8D%E5%85%B8)
 </br>
@@ -46,6 +46,7 @@
 
 ## 第五章 差点就信了篇
 1. 我回家打游戏了。
+2. 我躺平了。
 
 ## 第六章 真实篇
 1. 我大物怎么就满分了呢，我也没好好学啊。
