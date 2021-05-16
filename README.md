@@ -15,6 +15,8 @@
 </br>
 [第六章 真实篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%9C%9F%E5%AE%9E%E7%AF%87)
 </br>
+[第七章 对话篇](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%AF%B9%E8%AF%9D%E7%AF%87)
+</br>
 [附页 词典](https://github.com/SoulOfScience/Guo-s_MaiRuo_Collection#%E9%99%84%E9%A1%B5-%E8%AF%8D%E5%85%B8)
 </br>
 ## 第一章  日常篇
